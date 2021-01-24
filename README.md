@@ -1,1 +1,1 @@
-# blockchain_protocal
+# blockchain_protocol
